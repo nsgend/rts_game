@@ -1,7 +1,7 @@
 # depslib dependency file v1.0
-1371383481 source:c:\users\alina\documents\github\rts_game\src\main.cpp
+1371383790 source:c:\users\alina\documents\github\rts_game\src\main.cpp
 	<iostream>
-	"SDL.h"
+	"SDL/SDL.h"
 
 1325742240 c:\users\alina\documents\github\rts_game\sdl\sdl.h
 	"SDL_main.h"
