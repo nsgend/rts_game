@@ -2,29 +2,23 @@
 <CodeBlocks_project_file>
 	<FileVersion major="1" minor="6" />
 	<Project>
-		<Option title="RTSGame" />
+		<Option title="rts_game" />
 		<Option pch_mode="2" />
 		<Option compiler="gcc" />
 		<Build>
 			<Target title="Debug">
-				<Option output="bin/Debug/RTSGame" prefix_auto="1" extension_auto="1" />
+				<Option output="bin/Debug/rts_game" prefix_auto="1" extension_auto="1" />
 				<Option object_output="obj/Debug/" />
 				<Option type="1" />
 				<Option compiler="gcc" />
 				<Compiler>
 					<Add option="-g" />
-					<Add directory="include" />
 				</Compiler>
-				<Linker>
-					<Add option="-lmingw32 -mwindows" />
-					<Add library="lib\libSDL.dll.a" />
-					<Add library="lib\libSDLmain.a" />
-				</Linker>
 			</Target>
 			<Target title="Release">
-				<Option output="bin/Release/RTSGame" prefix_auto="1" extension_auto="1" />
+				<Option output="bin/Release/rts_game" prefix_auto="1" extension_auto="1" />
 				<Option object_output="obj/Release/" />
-				<Option type="1" />
+				<Option type="0" />
 				<Option compiler="gcc" />
 				<Compiler>
 					<Add option="-O2" />
@@ -36,17 +30,25 @@
 		</Build>
 		<Compiler>
 			<Add option="-Wall" />
-			<Add option="-fexceptions" />
+			<Add directory="C:/Users/alina/Documents/GitHub/rts_game/SDL/include" />
 		</Compiler>
-		<Unit filename=".gitignore" />
-		<Unit filename="src/main.cpp" />
+		<Linker>
+			<Add library="mingw32" />
+			<Add library="SDLmain" />
+			<Add library="SDL.dll" />
+			<Add library="user32" />
+			<Add library="gdi32" />
+			<Add library="winmm" />
+			<Add library="dxguid" />
+			<Add directory="C:/Users/alina/Documents/GitHub/rts_game/SDL/lib" />
+		</Linker>
+		<Unit filename="cb.bmp" />
+		<Unit filename="main.cpp" />
 		<Extensions>
-			<code_completion>
-				<search_path add="SDL/" />
-				<search_path add="include/" />
-			</code_completion>
+			<code_completion />
 			<envvars />
 			<debugger />
+			<lib_finder disable_auto="1" />
 		</Extensions>
 	</Project>
 </CodeBlocks_project_file>
