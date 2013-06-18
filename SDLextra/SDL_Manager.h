@@ -18,7 +18,6 @@
 
 #include "Image.h"
 #include "Sound.h"
-#include "Net.h"
 #include "TTF.h"
 
 

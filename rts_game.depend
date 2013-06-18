@@ -493,7 +493,7 @@
 1371535782 source:c:\users\user\documents\github\rts_game\sdlextra\sdl_manager.cpp
 	"SDL_Manager.h"
 
-1371535782 c:\users\user\documents\github\rts_game\sdlextra\sdl_manager.h
+1371540882 c:\users\user\documents\github\rts_game\sdlextra\sdl_manager.h
 	<iostream>
 	<cstdlib>
 	<vector>
@@ -503,7 +503,6 @@
 	<SDL/SDL_ttf.h>
 	"Image.h"
 	"Sound.h"
-	"Net.h"
 	"TTF.h"
 
 1371535781 c:\users\user\documents\github\rts_game\sdl\include\sdl\sdl_mixer.h
