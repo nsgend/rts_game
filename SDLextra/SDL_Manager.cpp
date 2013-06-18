@@ -22,11 +22,14 @@ bool SDL_Manager::init() {
 	return true;
 }
 
-bool SDL_Manager::createScreen(SDL_Surface** s, int w, int h) {
+bool SDL_Manager::createScreen(SDL_Surface** s, int w, int h, bool fullscreen) {
 
 	const SDL_VideoInfo* info = SDL_GetVideoInfo();
 
-	int vidFlags = SDL_DOUBLEBUF | SDL_FULLSCREEN;
+	int vidFlags = SDL_DOUBLEBUF;
+
+	if(fullscreen) vidFlags |= SDL_FULLSCREEN;
+
 
 	if(info->hw_available) {
 		vidFlags |= SDL_HWSURFACE;

@@ -490,10 +490,10 @@
 	"begin_code.h"
 	"close_code.h"
 
-1371535782 source:c:\users\user\documents\github\rts_game\sdlextra\sdl_manager.cpp
+1371544013 source:c:\users\user\documents\github\rts_game\sdlextra\sdl_manager.cpp
 	"SDL_Manager.h"
 
-1371540882 c:\users\user\documents\github\rts_game\sdlextra\sdl_manager.h
+1371543833 c:\users\user\documents\github\rts_game\sdlextra\sdl_manager.h
 	<iostream>
 	<cstdlib>
 	<vector>
@@ -501,9 +501,9 @@
 	<SDL/SDL_image.h>
 	<SDL/SDL_mixer.h>
 	<SDL/SDL_ttf.h>
-	"Image.h"
-	"Sound.h"
-	"TTF.h"
+	<Image.h>
+	<Sound.h>
+	<TTF.h>
 
 1371535781 c:\users\user\documents\github\rts_game\sdl\include\sdl\sdl_mixer.h
 	"SDL_types.h"
@@ -548,7 +548,7 @@
 1371535782 source:c:\users\user\documents\github\rts_game\sdlextra\ttf.cpp
 	"TTF.h"
 
-1371535782 source:c:\users\user\documents\github\rts_game\src\main.cpp
+1371543521 source:c:\users\user\documents\github\rts_game\src\main.cpp
 	<cstdlib>
 	<stdlib.h>
 	<stdint.h>
@@ -557,11 +557,36 @@
 	<SDL/SDL.h>
 	<SDL/SDL_image.h>
 	<SDL/SDL_mixer.h>
-	"net.h"
+	<net.h>
+	<Game.h>
 
 1371535782 source:c:\users\user\documents\github\rts_game\src\net.cpp
 	"net.h"
 	<iostream>
 	<sstream>
 	<istream>
+
+1371543440 c:\users\user\documents\github\rts_game\include\net.h
+	<iostream>
+	<stdint.h>
+	<winsock2.h>
+
+1371544027 source:c:\users\user\documents\github\rts_game\src\gameinit.cpp
+	<Game.h>
+
+1371543521 c:\users\user\documents\github\rts_game\include\game.h
+	<SDL_Manager.h>
+	<Timer.h>
+
+1371543698 source:c:\users\user\documents\github\rts_game\src\gamecleanup.cpp
+	<Game.h>
+
+1371543971 source:c:\users\user\documents\github\rts_game\src\gameevent.cpp
+	<Game.h>
+
+1371543014 source:c:\users\user\documents\github\rts_game\src\gamerender.cpp
+	<Game.h>
+
+1371543059 source:c:\users\user\documents\github\rts_game\src\gameupdate.cpp
+	<Game.h>
 

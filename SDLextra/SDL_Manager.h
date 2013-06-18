@@ -16,9 +16,9 @@
 #include <SDL/SDL_mixer.h>
 #include <SDL/SDL_ttf.h>
 
-#include "Image.h"
-#include "Sound.h"
-#include "TTF.h"
+#include <Image.h>
+#include <Sound.h>
+#include <TTF.h>
 
 
 
@@ -36,7 +36,7 @@ public:
 
 	static bool init();
 
-	static bool createScreen(SDL_Surface** s, int w, int h);
+	static bool createScreen(SDL_Surface** s, int w, int h, bool fullscreen);
 
 	static void setTitle(std::string title);
 
