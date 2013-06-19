@@ -6,7 +6,7 @@
 	<SDL/SDL_image.h>
 	<SDL/SDL_mixer.h>
 
-1325742240 c:\users\alina\documents\github\rts_game\sdl\include\sdl\sdl.h
+1371624264 c:\users\alina\documents\github\rts_game\sdl\include\sdl\sdl.h
 	"SDL_main.h"
 	"SDL_stdinc.h"
 	"SDL_audio.h"
@@ -25,14 +25,14 @@
 	"begin_code.h"
 	"close_code.h"
 
-1325742240 c:\users\alina\documents\github\rts_game\sdl\include\sdl\sdl_main.h
+1371624264 c:\users\alina\documents\github\rts_game\sdl\include\sdl\sdl_main.h
 	"SDL_stdinc.h"
 	"begin_code.h"
 	"close_code.h"
 	"begin_code.h"
 	"close_code.h"
 
-1325742240 c:\users\alina\documents\github\rts_game\sdl\include\sdl\sdl_stdinc.h
+1371624264 c:\users\alina\documents\github\rts_game\sdl\include\sdl\sdl_stdinc.h
 	"SDL_config.h"
 	<sys/types.h>
 	<stdio.h>
@@ -58,7 +58,7 @@
 	<stdlib.h>
 	"close_code.h"
 
-1326114588 c:\users\alina\documents\github\rts_game\sdl\include\sdl\sdl_config.h
+1371624264 c:\users\alina\documents\github\rts_game\sdl\include\sdl\sdl_config.h
 	"SDL_platform.h"
 	"SDL_config_dreamcast.h"
 	"SDL_config_macos.h"
@@ -68,16 +68,16 @@
 	"SDL_config_os2.h"
 	"SDL_config_minimal.h"
 
-1325742240 c:\users\alina\documents\github\rts_game\sdl\include\sdl\sdl_platform.h
+1371624264 c:\users\alina\documents\github\rts_game\sdl\include\sdl\sdl_platform.h
 
-1326114594 c:\users\alina\documents\github\rts_game\sdl\include\sdl\sdl_config_win32.h
+1371624264 c:\users\alina\documents\github\rts_game\sdl\include\sdl\sdl_config_win32.h
 	"SDL_platform.h"
 
-1326114600 c:\users\alina\documents\github\rts_game\sdl\include\sdl\begin_code.h
+1371624264 c:\users\alina\documents\github\rts_game\sdl\include\sdl\begin_code.h
 
-1325742240 c:\users\alina\documents\github\rts_game\sdl\include\sdl\close_code.h
+1371624264 c:\users\alina\documents\github\rts_game\sdl\include\sdl\close_code.h
 
-1325742240 c:\users\alina\documents\github\rts_game\sdl\include\sdl\sdl_audio.h
+1371624264 c:\users\alina\documents\github\rts_game\sdl\include\sdl\sdl_audio.h
 	"SDL_stdinc.h"
 	"SDL_error.h"
 	"SDL_endian.h"
@@ -87,24 +87,24 @@
 	"begin_code.h"
 	"close_code.h"
 
-1325742240 c:\users\alina\documents\github\rts_game\sdl\include\sdl\sdl_error.h
+1371624264 c:\users\alina\documents\github\rts_game\sdl\include\sdl\sdl_error.h
 	"SDL_stdinc.h"
 	"begin_code.h"
 	"close_code.h"
 
-1325742240 c:\users\alina\documents\github\rts_game\sdl\include\sdl\sdl_endian.h
+1371624264 c:\users\alina\documents\github\rts_game\sdl\include\sdl\sdl_endian.h
 	"SDL_stdinc.h"
 	<endian.h>
 	"begin_code.h"
 	"close_code.h"
 
-1325742240 c:\users\alina\documents\github\rts_game\sdl\include\sdl\sdl_mutex.h
+1371624264 c:\users\alina\documents\github\rts_game\sdl\include\sdl\sdl_mutex.h
 	"SDL_stdinc.h"
 	"SDL_error.h"
 	"begin_code.h"
 	"close_code.h"
 
-1325742240 c:\users\alina\documents\github\rts_game\sdl\include\sdl\sdl_thread.h
+1371624264 c:\users\alina\documents\github\rts_game\sdl\include\sdl\sdl_thread.h
 	"SDL_stdinc.h"
 	"SDL_error.h"
 	"SDL_mutex.h"
@@ -112,24 +112,24 @@
 	<process.h>
 	"close_code.h"
 
-1325742240 c:\users\alina\documents\github\rts_game\sdl\include\sdl\sdl_rwops.h
+1371624264 c:\users\alina\documents\github\rts_game\sdl\include\sdl\sdl_rwops.h
 	"SDL_stdinc.h"
 	"SDL_error.h"
 	"begin_code.h"
 	"close_code.h"
 
-1325742240 c:\users\alina\documents\github\rts_game\sdl\include\sdl\sdl_cdrom.h
+1371624264 c:\users\alina\documents\github\rts_game\sdl\include\sdl\sdl_cdrom.h
 	"SDL_stdinc.h"
 	"SDL_error.h"
 	"begin_code.h"
 	"close_code.h"
 
-1325742240 c:\users\alina\documents\github\rts_game\sdl\include\sdl\sdl_cpuinfo.h
+1371624264 c:\users\alina\documents\github\rts_game\sdl\include\sdl\sdl_cpuinfo.h
 	"SDL_stdinc.h"
 	"begin_code.h"
 	"close_code.h"
 
-1325742240 c:\users\alina\documents\github\rts_game\sdl\include\sdl\sdl_events.h
+1371624264 c:\users\alina\documents\github\rts_game\sdl\include\sdl\sdl_events.h
 	"SDL_stdinc.h"
 	"SDL_error.h"
 	"SDL_active.h"
@@ -140,69 +140,69 @@
 	"begin_code.h"
 	"close_code.h"
 
-1325742240 c:\users\alina\documents\github\rts_game\sdl\include\sdl\sdl_active.h
+1371624264 c:\users\alina\documents\github\rts_game\sdl\include\sdl\sdl_active.h
 	"SDL_stdinc.h"
 	"SDL_error.h"
 	"begin_code.h"
 	"close_code.h"
 
-1325742240 c:\users\alina\documents\github\rts_game\sdl\include\sdl\sdl_keyboard.h
+1371624264 c:\users\alina\documents\github\rts_game\sdl\include\sdl\sdl_keyboard.h
 	"SDL_stdinc.h"
 	"SDL_error.h"
 	"SDL_keysym.h"
 	"begin_code.h"
 	"close_code.h"
 
-1325742240 c:\users\alina\documents\github\rts_game\sdl\include\sdl\sdl_keysym.h
+1371624264 c:\users\alina\documents\github\rts_game\sdl\include\sdl\sdl_keysym.h
 
-1325742240 c:\users\alina\documents\github\rts_game\sdl\include\sdl\sdl_mouse.h
+1371624264 c:\users\alina\documents\github\rts_game\sdl\include\sdl\sdl_mouse.h
 	"SDL_stdinc.h"
 	"SDL_error.h"
 	"SDL_video.h"
 	"begin_code.h"
 	"close_code.h"
 
-1325742240 c:\users\alina\documents\github\rts_game\sdl\include\sdl\sdl_video.h
+1371624264 c:\users\alina\documents\github\rts_game\sdl\include\sdl\sdl_video.h
 	"SDL_stdinc.h"
 	"SDL_error.h"
 	"SDL_rwops.h"
 	"begin_code.h"
 	"close_code.h"
 
-1325742240 c:\users\alina\documents\github\rts_game\sdl\include\sdl\sdl_joystick.h
+1371624264 c:\users\alina\documents\github\rts_game\sdl\include\sdl\sdl_joystick.h
 	"SDL_stdinc.h"
 	"SDL_error.h"
 	"begin_code.h"
 	"close_code.h"
 
-1325742240 c:\users\alina\documents\github\rts_game\sdl\include\sdl\sdl_quit.h
+1371624264 c:\users\alina\documents\github\rts_game\sdl\include\sdl\sdl_quit.h
 	"SDL_stdinc.h"
 	"SDL_error.h"
 
-1325742240 c:\users\alina\documents\github\rts_game\sdl\include\sdl\sdl_loadso.h
-	"SDL_stdinc.h"
-	"SDL_error.h"
-	"begin_code.h"
-	"close_code.h"
-
-1325742240 c:\users\alina\documents\github\rts_game\sdl\include\sdl\sdl_timer.h
+1371624264 c:\users\alina\documents\github\rts_game\sdl\include\sdl\sdl_loadso.h
 	"SDL_stdinc.h"
 	"SDL_error.h"
 	"begin_code.h"
 	"close_code.h"
 
-1325742240 c:\users\alina\documents\github\rts_game\sdl\include\sdl\sdl_version.h
+1371624264 c:\users\alina\documents\github\rts_game\sdl\include\sdl\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1371624264 c:\users\alina\documents\github\rts_game\sdl\include\sdl\sdl_version.h
 	"SDL_stdinc.h"
 	"begin_code.h"
 	"close_code.h"
 
-1327074694 c:\users\alina\documents\github\rts_game\sdl\include\sdl\sdl_image.h
+1371624264 c:\users\alina\documents\github\rts_game\sdl\include\sdl\sdl_image.h
 	"SDL.h"
 	"SDL_version.h"
 	"begin_code.h"
 	"close_code.h"
 
-1326628864 c:\users\alina\documents\github\rts_game\sdl\include\sdl\sdl_mixer.h
+1371624264 c:\users\alina\documents\github\rts_game\sdl\include\sdl\sdl_mixer.h
 	"SDL_types.h"
 	"SDL_rwops.h"
 	"SDL_audio.h"
@@ -211,21 +211,21 @@
 	"begin_code.h"
 	"close_code.h"
 
-1325742240 c:\users\alina\documents\github\rts_game\sdl\include\sdl\sdl_types.h
+1371624264 c:\users\alina\documents\github\rts_game\sdl\include\sdl\sdl_types.h
 	"SDL_stdinc.h"
 
-1342349558 source:c:\users\alina\documents\github\rts_game\sdlextra\image.cpp
+1371624265 source:c:\users\alina\documents\github\rts_game\sdlextra\image.cpp
 	"Image.h"
 
-1342349590 c:\users\alina\documents\github\rts_game\sdlextra\image.h
+1371624265 c:\users\alina\documents\github\rts_game\sdlextra\image.h
 	<map>
 	<iostream>
 	<SDL/SDL_image.h>
 
-1342363376 source:c:\users\alina\documents\github\rts_game\sdlextra\sdl_manager.cpp
+1371624265 source:c:\users\alina\documents\github\rts_game\sdlextra\sdl_manager.cpp
 	"SDL_Manager.h"
 
-1371453283 c:\users\alina\documents\github\rts_game\sdlextra\sdl_manager.h
+1371624265 c:\users\alina\documents\github\rts_game\sdlextra\sdl_manager.h
 	<iostream>
 	<cstdlib>
 	<vector>
@@ -233,17 +233,16 @@
 	<SDL/SDL_image.h>
 	<SDL/SDL_mixer.h>
 	<SDL/SDL_ttf.h>
-	"Image.h"
-	"Sound.h"
-	"Net.h"
-	"TTF.h"
+	<Image.h>
+	<Sound.h>
+	<TTF.h>
 
-1326566648 c:\users\alina\documents\github\rts_game\sdl\include\sdl\sdl_ttf.h
+1371624264 c:\users\alina\documents\github\rts_game\sdl\include\sdl\sdl_ttf.h
 	"SDL.h"
 	"begin_code.h"
 	"close_code.h"
 
-1342349598 c:\users\alina\documents\github\rts_game\sdlextra\sound.h
+1371624265 c:\users\alina\documents\github\rts_game\sdlextra\sound.h
 	<SDL/SDL_mixer.h>
 	<iostream>
 	<map>
@@ -253,23 +252,23 @@
 	<stdint.h>
 	<winsock2.h>
 
-1342178468 c:\users\alina\documents\github\rts_game\sdlextra\ttf.h
+1371627186 c:\users\alina\documents\github\rts_game\sdlextra\ttf.h
 	<iostream>
 	<SDL/SDL_ttf.h>
 
-1342349548 source:c:\users\alina\documents\github\rts_game\sdlextra\sound.cpp
+1371624265 source:c:\users\alina\documents\github\rts_game\sdlextra\sound.cpp
 	"Sound.h"
 
-1341994964 source:c:\users\alina\documents\github\rts_game\sdlextra\timer.cpp
+1371624265 source:c:\users\alina\documents\github\rts_game\sdlextra\timer.cpp
 	"Timer.h"
 	<SDL/SDL.h>
 
-1341994964 c:\users\alina\documents\github\rts_game\sdlextra\timer.h
+1371624265 c:\users\alina\documents\github\rts_game\sdlextra\timer.h
 
-1342363224 source:c:\users\alina\documents\github\rts_game\sdlextra\ttf.cpp
+1371627008 source:c:\users\alina\documents\github\rts_game\sdlextra\ttf.cpp
 	"TTF.h"
 
-1371454353 source:c:\users\alina\documents\github\rts_game\src\main.cpp
+1371625566 source:c:\users\alina\documents\github\rts_game\src\main.cpp
 	<cstdlib>
 	<stdlib.h>
 	<stdint.h>
@@ -278,9 +277,10 @@
 	<SDL/SDL.h>
 	<SDL/SDL_image.h>
 	<SDL/SDL_mixer.h>
-	"net.h"
+	<net.h>
+	<Game.h>
 
-1371454744 source:c:\users\alina\documents\github\rts_game\src\net.cpp
+1371624265 source:c:\users\alina\documents\github\rts_game\src\net.cpp
 	"net.h"
 	<iostream>
 	<sstream>
@@ -589,4 +589,39 @@
 
 1371543059 source:c:\users\user\documents\github\rts_game\src\gameupdate.cpp
 	<Game.h>
+
+1371624265 source:c:\users\alina\documents\github\rts_game\src\gamecleanup.cpp
+	<Game.h>
+
+1371625115 c:\users\alina\documents\github\rts_game\include\game.h
+	<SDL_Manager.h>
+	<Timer.h>
+	<MainMenu.h>
+
+1371627108 c:\users\alina\documents\github\rts_game\include\mainmenu.h
+	<SDL_Manager.h>
+	<Image.h>
+	<TTF.h>
+	<Timer.h>
+	<vector>
+
+1371624265 source:c:\users\alina\documents\github\rts_game\src\gameevent.cpp
+	<Game.h>
+
+1371624265 source:c:\users\alina\documents\github\rts_game\src\gamerender.cpp
+	<Game.h>
+
+1371624265 source:c:\users\alina\documents\github\rts_game\src\gameupdate.cpp
+	<Game.h>
+
+1371624265 c:\users\alina\documents\github\rts_game\include\net.h
+	<iostream>
+	<stdint.h>
+	<winsock2.h>
+
+1371625229 source:c:\users\alina\documents\github\rts_game\src\gameinit.cpp
+	<Game.h>
+
+1371627156 source:c:\users\alina\documents\github\rts_game\src\mainmenu.cpp
+	<MainMenu.h>
 

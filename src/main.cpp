@@ -27,6 +27,26 @@ int Game::onExecute()
 
 	Timer fps;
 
+    MainMenu menu;
+
+    /* Main menu */
+    while(running) {
+		fps.start();
+
+		while(SDL_PollEvent(&event)) {
+			menu.event(&event, running);
+		}
+
+		menu.update();
+
+		menu.render(screen);
+
+		SDL_Flip(screen);
+
+		if(fps.getTicks() < 1000 / FRAMES_PER_SECOND)
+			SDL_Delay( (1000 / FRAMES_PER_SECOND) - fps.getTicks());
+	}
+    /* The game */
 	while(running) {
 		fps.start();
 

@@ -41,7 +41,7 @@ public:
 	 */
 	SDL_Surface* render(std::string text);
 
-	virtual ~Font();
+    ~Font();
 };
 
 #endif /* TTF_H_ */

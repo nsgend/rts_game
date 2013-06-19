@@ -60,6 +60,5 @@ SDL_Surface* Font::render(std::string text) {
 }
 
 Font::~Font() {
-	// TODO Auto-generated destructor stub
-	TTF_CloseFont(font_);
+    TTF_CloseFont(font_);
 }

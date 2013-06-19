@@ -17,6 +17,7 @@
 					<Add directory="SDL/include" />
 					<Add directory="include" />
 					<Add directory="SDLextra" />
+					<Add directory="data" />
 				</Compiler>
 				<Linker>
 					<Add option="-Bstatic -lSDL_image  -lSDL_net -lSDL_ttf -lSDL_mixer" />
@@ -34,6 +35,7 @@
 					<Add directory="SDL/include" />
 					<Add directory="include" />
 					<Add directory="SDLextra" />
+					<Add directory="data" />
 				</Compiler>
 				<Linker>
 					<Add option="-s" />
@@ -48,6 +50,7 @@
 			<Add directory="SDL/include" />
 			<Add directory="include" />
 			<Add directory="SDLextra" />
+			<Add directory="data" />
 		</Compiler>
 		<Linker>
 			<Add library="mingw32" />
@@ -69,14 +72,15 @@
 		<Unit filename="SDLextra/TTF.h" />
 		<Unit filename="SDLextra/Timer.cpp" />
 		<Unit filename="SDLextra/Timer.h" />
-		<Unit filename="cb.bmp" />
 		<Unit filename="include/Game.h" />
+		<Unit filename="include/MainMenu.h" />
 		<Unit filename="include/net.h" />
 		<Unit filename="src/GameCleanup.cpp" />
 		<Unit filename="src/GameEvent.cpp" />
 		<Unit filename="src/GameInit.cpp" />
 		<Unit filename="src/GameRender.cpp" />
 		<Unit filename="src/GameUpdate.cpp" />
+		<Unit filename="src/MainMenu.cpp" />
 		<Unit filename="src/main.cpp" />
 		<Unit filename="src/net.cpp" />
 		<Extensions>

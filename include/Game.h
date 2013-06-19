@@ -3,6 +3,7 @@
 
 #include <SDL_Manager.h>
 #include <Timer.h>
+#include <MainMenu.h>
 
 class Game {
 private:
